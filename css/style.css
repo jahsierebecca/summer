@@ -1,0 +1,198 @@
+body {
+	background-color: #ecf0f1;
+}
+
+.text {
+	width: 45%;
+	height: 8em;
+	border: 1px solid rgba(255, 255, 255, .4);
+position: relative;
+  	top: 50%;
+  	transform: translateY(-50%);
+  	margin-left: auto ;
+  margin-right: auto ;
+}
+
+
+h2 {
+	font-size: 6em;
+	color: rgba(255, 255, 255, .7);
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+	font-style: italic;
+	font-weight: 800;
+	text-align: center;
+    position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.photo {
+	max-width: 100%;
+	height: auto;
+	background-position: center center;
+	background-color: black;
+    background-size: cover;
+    background-position: 50%;
+    height: 85vh;
+}
+
+.arch {
+	background-image: url(../img/arch.jpg);
+}
+
+.atlantic {
+	background-image: url(../img/atlantic.jpg);
+}
+
+.bokeh {
+	background-image: url(../img/bokeh.jpg);
+}
+
+.bridge {
+	background-image: url(../img/bridge.jpg);
+}
+
+.burger {
+	background-image: url(../img/burger.jpg);
+}
+
+.ca {
+	background-image: url(../img/ca.jpg);
+}
+
+.canyon {
+	background-image: url(../img/canyon.jpg);
+}
+
+.car {
+	background-image: url(../img/car.jpg);
+}
+
+
+.drink {
+	background-image: url(../img/drink.jpg);
+}
+
+.drinks {
+	background-image: url(../img/drinks.jpg);
+}
+
+.drive {
+	background-image: url(../img/drive.jpg);
+}
+
+.empire {
+	background-image: url(../img/empire.jpg);
+}
+
+.glacier {
+	background-image: url(../img/glacier.jpg);
+}
+
+.goldengate {
+	background-image: url(../img/goldengate.jpg);
+}
+
+.hike {
+	background-image: url(../img/hike.jpg);
+}
+
+.horse {
+	background-image: url(../img/horse.jpg);
+}
+
+.mount {
+	background-image: url(../img/mount.jpg);
+}
+
+.momount {
+	background-image: url(../img/momount.jpg);
+}
+
+.mountain {
+	background-image: url(../img/mountain.jpg);
+}
+
+.ny {
+	background-image: url(../img/ny.jpg);
+}
+
+.overlook {
+	background-image: url(../img/overlook.jpg);
+}
+
+.plains {
+	background-image: url(../img/plains.jpg);
+}
+
+.plane {
+	background-image: url(../img/plane.jpg);
+}
+
+.river {
+	background-image: url(../img/river.jpg);
+}
+
+.road {
+	background-image: url(../img/road.jpg);
+}
+
+.roads {
+	background-image: url(../img/roads.jpg);
+}
+
+.sd {
+	background-image: url(../img/sd.jpg);
+}
+
+.shorts {
+	background-image: url(../img/shorts.jpg);
+}
+
+.slt {
+	background-image: url(../img/slt.jpg);
+}
+
+.sun {
+	background-image: url(../img/sun.jpg);
+}
+
+.sunset {
+	background-image: url(../img/sunset.jpg);
+}
+
+.sylv {
+	background-image: url(../img/sylv.jpg);
+}
+
+.upside {
+	background-image: url(../img/upside.jpg);
+}
+
+.water {
+	background-image: url(../img/water.jpg);
+}
+
+
+@media only screen and (min-width: 1100px) {
+.photo {
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+}
+/*
+.leftMenu {
+	min-height: 100%;
+	background-color: red;
+	float: left;
+	position:absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    display: table-cell;
+}
+
+*/
