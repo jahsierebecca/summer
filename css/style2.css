@@ -40,6 +40,10 @@ h2 {
 }
 
 
+.whiteB h2 {
+	color: rgba(41, 128, 185,.7);
+}
+
 .arch {
 	background-image: url(../img/arch.jpg);
 }
